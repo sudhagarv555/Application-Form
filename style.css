@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    font-family: "Inter", serif;
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+.main-wapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 48px;
+}
+form{
+    padding: 40px;
+    background-color: #fff;
+    max-width: 600px;
+    width: 100%;
+    box-shadow: silver;
+    
+}
+.form h3{
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5%;
+    margin-bottom: 10px;
+    color: #6a64f1;
+
+}
+form p{
+    margin-bottom: 30px;
+    color: #637381;
+    font-size: 14px;
+
+}
+.input-flex{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 15px;
+
+}
+.input-flex >div{
+
+    width: 50%;
+}
+.form-lable{
+    display: block;
+    color: #07074d;
+    font-weight: 500;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.form-input{
+    display: block;
+    width: 100%;
+    padding: 10px 22px;
+    border-radius: 5px;
+    outline: none;
+    font-weight: 500;
+    font-size: 15px;
+    transition: 0.5s;
+    resize: none;
+    
+    border: 1px solid #dde3ec;
+}
+.form-input ::placeholder{
+    font-weight: 300;
+    color: rgb(83, 99, 135,0.5);
+
+} 
+.form-input:focus {
+    border-color: #6a64f1;
+}
+.input-werap div{
+    display: flex;
+    gap: 20px;
+}
+.W-45{
+    width: 45% !important;
+
+}
+.mr-3{
+    margin-bottom: 15px;
+
+}
+.from-file-flex{
+    display: flex;
+    gap: 20px;
+}
+.btn{
+    margin-top: 20px;
+    width: 100%;
+    font-size: 16px;
+    padding: 14px 25px;
+    background-color: #6a64f1;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
