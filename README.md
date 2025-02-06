@@ -37,6 +37,8 @@ The goal of this project is to create a clean, functional, and responsive applic
 
 ##   About
 
-🔗 Live Demo: [GitHub Pages Link] (replace with actual link)
-📂 GitHub Repository: [Repository Link] (replace with actual link)
+🔗 Live Demo: [<a href="https://sudhagarv555.github.io/Application-Form/"> Application Form<a>] 
+
+📂 GitHub Repository: [<a href="https://github.com/sudhagarv555/Application-Form
+"> Repository<a>]
 
